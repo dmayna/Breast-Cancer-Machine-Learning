@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543390416994.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1308270912",
+    "id" : "33AADC39",
+    "lastKnownWriteTime" : 1544339390,
+    "last_content_update" : 1544339390,
+    "path" : "~/Big Data/Big Data Project/bigDataProject.R",
+    "project_path" : "bigDataProject.R",
+    "properties" : {
+        "cursorPosition" : "14,32",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
